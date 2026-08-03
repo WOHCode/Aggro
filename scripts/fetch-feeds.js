@@ -53,7 +53,26 @@ function excerptFromItem(item) {
   return text.slice(0, 277).trim() + "...";
 }
 
+// Belt-and-braces timeout: rss-parser's built-in `timeout` option doesn't
+// always fire reliably (e.g. a server that accepts the connection but never
+// sends data). This wraps each feed fetch in a hard deadline so one bad
+// feed can never hang the whole script.
+function withHardTimeout(promise, ms, label) {
+  return new Promise((resolve) => {
+    const timer = setTimeout(() => {
+      console.error(`✗ ${label}: timed out after ${ms / 1000}s, skipping`);
+      resolve([]);
+    }, ms);
+    promise.then(
+      (result) => { clearTimeout(timer); resolve(result); },
+      (err) => { clearTimeout(timer); console.error(`✗ ${label}: ${err.message}`); resolve([]); }
+    );
+  });
+}
+
 async function fetchOneFeed(feedConfig) {
+  const label = feedConfig.name || feedConfig.url;
+  console.log(`… fetching ${label}`);
   try {
     const parsed = await parser.parseURL(feedConfig.url);
     const siteName = feedConfig.name || parsed.title || feedConfig.url;
@@ -91,7 +110,9 @@ async function main() {
     process.exit(1);
   }
 
-  const results = await Promise.all(feeds.map(fetchOneFeed));
+  const results = await Promise.all(
+    feeds.map((f) => withHardTimeout(fetchOneFeed(f), 20000, f.name || f.url))
+  );
   let allItems = results.flat();
 
   // Sort newest first, drop items with no date to the bottom.
@@ -109,7 +130,25 @@ async function main() {
   console.log(`\nWrote ${allItems.length} items to ${path.relative(ROOT, OUTPUT_FILE)}`);
 }
 
-main().catch((err) => {
-  console.error(err);
+// Absolute safety net: if for any reason the process is still alive
+// well past when every feed should have timed out, force it to exit
+// rather than hang a CI run forever.
+const SAFETY_NET_MS = 90000;
+const safetyTimer = setTimeout(() => {
+  console.error(`\nSafety net: forcing exit after ${SAFETY_NET_MS / 1000}s`);
   process.exit(1);
-});
+}, SAFETY_NET_MS);
+safetyTimer.unref?.();
+
+main()
+  .then(() => {
+    clearTimeout(safetyTimer);
+    // Explicitly exit: some HTTP clients leave keep-alive sockets open,
+    // which can otherwise keep the Node process (and a CI job) running
+    // indefinitely even after all work is done.
+    process.exit(0);
+  })
+  .catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
