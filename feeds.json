@@ -1,7 +1,8 @@
 {
   "feeds": [
     { "name": "dazed", "url": "https://www.dazeddigital.com/rss/" },
-    { "name": "PAUSE", "url": "https://pausemag.co.uk/feed/" }
+    { "name": "PAUSE", "url": "https://pausemag.co.uk/feed/" },
+    { "name": "1granary", "url": "https://1granary.com/feed/" }
   ],
   "scrapers": ["ssense"]
 }
