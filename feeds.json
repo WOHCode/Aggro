@@ -3,6 +3,6 @@
     { "name": "Waxy", "url": "https://waxy.org/feed/" },
     { "name": "Kottke", "url": "https://feeds.kottke.org/main" },
     { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/" },
-    { "name": "Simon Willison", "url": "https://www.dazeddigital.com/rss/" }
+    { "name": "dazed", "url": "https://www.dazeddigital.com/rss/" }
   ]
 }
