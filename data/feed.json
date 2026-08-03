@@ -1,67 +1,7 @@
 {
-  "generatedAt": "2026-08-03T22:32:20.391Z",
-  "count": 32,
+  "generatedAt": "2026-08-03T22:36:18.716Z",
+  "count": 8,
   "items": [
-    {
-      "source": "Kottke",
-      "sourceUrl": "https://kottke.org/",
-      "title": "“Long live Hyrule jazz!&#8221;  The Z Suites  is “a...",
-      "link": "https://kottke.org/26/08/0049435-the-z-suites",
-      "date": "2026-08-03T20:33:00.000Z",
-      "timestamp": 1785789180000,
-      "excerpt": "“Long live Hyrule jazz!” The Z Suites is “a modern jazz reinterpretation of the music from The Legend of Zelda”.",
-      "image": null
-    },
-    {
-      "source": "Kottke",
-      "sourceUrl": "https://kottke.org/",
-      "title": "How Podcasts Ruined America . This is an odd claim and...",
-      "link": "https://kottke.org/26/08/0049431-how-podcasts-ruined-ameri",
-      "date": "2026-08-03T19:48:00.000Z",
-      "timestamp": 1785786480000,
-      "excerpt": "How Podcasts Ruined America. This is an odd claim and article. No mention of the clear precursors to right-wing podcasts (talk radio, blogs, Twitter) and the general shift towards less accountability for public speech, esp. by conservatives. 🤔",
-      "image": null
-    },
-    {
-      "source": "Kottke",
-      "sourceUrl": "https://kottke.org/",
-      "title": "Pilcrow, Dagger, and Octothorp, Oh My!",
-      "link": "https://kottke.org/26/08/pilcrow-dagger-and-octothorp-oh-my",
-      "date": "2026-08-03T18:38:00.000Z",
-      "timestamp": 1785782280000,
-      "excerpt": "So, I don’t know what kind of nerd you are, but my brand of nerdiness dovetails neatly with this video about the origins of some of the most common symbols on your keyboard: #, @, &, §, *, ¶, †, and ‡, as well as ☞. The “and” symbol or ampersand does not look like a word, but...",
-      "image": null
-    },
-    {
-      "source": "Kottke",
-      "sourceUrl": "https://kottke.org/",
-      "title": "What Climate Science Can Tell Us About the Lost World...",
-      "link": "https://kottke.org/26/08/0049432-what-climate-science-can-",
-      "date": "2026-08-03T17:48:00.000Z",
-      "timestamp": 1785779280000,
-      "excerpt": "What Climate Science Can Tell Us About the Lost World That Inspired The Odyssey. “A new climate study suggests that centuries of repeated severe drought added to the pressures on that collapsing world.”",
-      "image": null
-    },
-    {
-      "source": "Waxy",
-      "sourceUrl": "https://waxy.org/",
-      "title": "Ikea Complexity Index",
-      "link": "https://ikea.greg.technology/",
-      "date": "2026-08-03T17:42:18.000Z",
-      "timestamp": 1785778938000,
-      "excerpt": "I wonder how many people know they’ve committed to a 10 hour build when buying a $700 kitchenette b3ta #",
-      "image": null
-    },
-    {
-      "source": "Kottke",
-      "sourceUrl": "https://kottke.org/",
-      "title": "This is fun:  BoxSquad . Limbs & borders are all draggable.",
-      "link": "https://kottke.org/26/08/0049425-boxsquad",
-      "date": "2026-08-03T17:07:00.000Z",
-      "timestamp": 1785776820000,
-      "excerpt": "This is fun: BoxSquad. Limbs & borders are all draggable.",
-      "image": null
-    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -83,26 +23,6 @@
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/0/1450745.jpg"
     },
     {
-      "source": "Kottke",
-      "sourceUrl": "https://kottke.org/",
-      "title": "&#8220;A Los Angeles Costco parking lot [has] become a...",
-      "link": "https://kottke.org/26/08/0049428-the-end-being-closer-than",
-      "date": "2026-08-03T16:15:32.000Z",
-      "timestamp": 1785773732000,
-      "excerpt": "“A Los Angeles Costco parking lot [has] become a hotspot for skaters over 40. Its long, low curb lets us keep doing tricks on safer, lower-risk terrain […] Curbs represent the twilight of skateboarding, the end being closer than the beginning.” Lovely.",
-      "image": null
-    },
-    {
-      "source": "Simon Willison",
-      "sourceUrl": "http://simonwillison.net/",
-      "title": "Quoting David Crawshaw's prompt",
-      "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
-      "date": "2026-08-03T16:15:27.000Z",
-      "timestamp": 1785773727000,
-      "excerpt": "<blockquote cite=\"https://blog.exe.dev/devtools-must-be-open-source\"><p><code>Set up a nightly cron job that executes the prompt: fetch upstream changes to the &lt;software&gt; and rebase all local changes on top of upstream. Check that the software works as intended and repla...",
-      "image": null
-    },
-    {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
       "title": "Harley Weir’s evocative photos of the West Bank barrier",
@@ -113,16 +33,6 @@
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/0/1450706.jpg"
     },
     {
-      "source": "Simon Willison",
-      "sourceUrl": "http://simonwillison.net/",
-      "title": "Devtools must be open source (exe.dev)",
-      "link": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
-      "date": "2026-08-03T15:30:38.000Z",
-      "timestamp": 1785771038000,
-      "excerpt": "<p><a href=\"https://news.ycombinator.com/item?id=49156111#49156719\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49156111\">Devtools must be open source (exe.dev)</a> &mdash; Hacker News.</p><p>One of the arguments for open source software for end-users has a...",
-      "image": null
-    },
-    {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
       "title": "How a meme page helped force out an Indian government minister",
@@ -131,16 +41,6 @@
       "timestamp": 1785770940000,
       "excerpt": "On July 20, thousands of Gen Z protesters from across India gathered in New Delhi for what was intended to be a peaceful march towards Parliament. Within five days, the demonstrations had spread to major cities across the country, culminating in one of the most significant pol...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/0/1450725.jpeg"
-    },
-    {
-      "source": "Kottke",
-      "sourceUrl": "https://kottke.org/",
-      "title": "Does Christopher Nolan Consider Himself a Bard for a Civilization at Dusk?",
-      "link": "https://kottke.org/26/08/does-christopher-nolan-consider-himself-a-bard-for-a-civilization-at-dusk",
-      "date": "2026-08-03T14:39:00.000Z",
-      "timestamp": 1785767940000,
-      "excerpt": "This 17-minute interview about the Odyssey with Christopher Nolan conducted by philosophy doctoral student Zhong Shu is one of the better ones I’ve seen. The first two questions are: Do you consider yourself a bard for a civilization at dusk? Have you Christianized The Odyssey...",
-      "image": null
     },
     {
       "source": "dazed",
@@ -181,146 +81,6 @@
       "timestamp": 1785749820000,
       "excerpt": "Back in 2023, Dazed wrote about a wave of sickly sweet, dessert-inspired beauty products. Three years on, the sugar rush shows no signs of slowing down – and this summer it's ice cream that's dominating beauty moodboards. From Abel's vanilla fragrance Double Scoop to LOEWE cel...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/0/1450549.jpg"
-    },
-    {
-      "source": "Simon Willison",
-      "sourceUrl": "http://simonwillison.net/",
-      "title": "condense-json 1.0",
-      "link": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
-      "date": "2026-08-02T22:19:59.000Z",
-      "timestamp": 1785709199000,
-      "excerpt": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/condense-json/releases/tag/1.0\">condense-json 1.0</a></p> <p>I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fix...",
-      "image": null
-    },
-    {
-      "source": "Simon Willison",
-      "sourceUrl": "http://simonwillison.net/",
-      "title": "Open letters about AI development",
-      "link": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-      "date": "2026-08-02T04:16:52.000Z",
-      "timestamp": 1785644212000,
-      "excerpt": "<h4>Open letters about AI development</h4> <p><em>I wrote this summary of the past few weeks of open letters as a section of <a href=\"https://simonwillison.net/2026/Aug/2/july-newsletter/\">my sponsors-only newsletter</a> but I've decided to share it here as well.</em></p> <p><...",
-      "image": null
-    },
-    {
-      "source": "Simon Willison",
-      "sourceUrl": "http://simonwillison.net/",
-      "title": "July 2026 newsletter",
-      "link": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
-      "date": "2026-08-02T04:12:41.000Z",
-      "timestamp": 1785643961000,
-      "excerpt": "<p>The June edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a> is out. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-07-july.md\">access it here</a...",
-      "image": null
-    },
-    {
-      "source": "Simon Willison",
-      "sourceUrl": "http://simonwillison.net/",
-      "title": "Quoting Greg Brockman",
-      "link": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
-      "date": "2026-08-01T22:29:44.000Z",
-      "timestamp": 1785623384000,
-      "excerpt": "<blockquote cite=\"https://twitter.com/gdb/status/2083435180392673714\"><p>at openai, many people hook their chatgpt up to slack.</p> <p>people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that s...",
-      "image": null
-    },
-    {
-      "source": "Simon Willison",
-      "sourceUrl": "http://simonwillison.net/",
-      "title": "datasette-apps 0.2a0",
-      "link": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
-      "date": "2026-08-01T21:23:56.000Z",
-      "timestamp": 1785619436000,
-      "excerpt": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.2a0\">datasette-apps 0.2a0</a></p> <blockquote> <p>Changes that improve Datasette Apps when created and edited using <a href=\"https://agent.datasette.io/\">Datasette Agent</a>:</p> <...",
-      "image": null
-    },
-    {
-      "source": "Simon Willison",
-      "sourceUrl": "http://simonwillison.net/",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "link": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
-      "date": "2026-08-01T20:34:49.000Z",
-      "timestamp": 1785616489000,
-      "excerpt": "<p><strong><a href=\"https://openai.com/index/ten-advances-in-mathematics/\">Ten advances in mathematics and theoretical computer science</a></strong></p> A few days ago it was Anthropic <a href=\"https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-cla...",
-      "image": null
-    },
-    {
-      "source": "Waxy",
-      "sourceUrl": "https://waxy.org/",
-      "title": "Waxy Refresh: Supercut.org",
-      "link": "https://waxy.org/2026/07/waxy-refresh-supercut-org/",
-      "date": "2026-07-31T20:36:55.000Z",
-      "timestamp": 1785530215000,
-      "excerpt": "Continuing my series of updating old side projects, I gave Supercut.org a big refresh, plus some notes on the sad state of Vimeo.",
-      "image": "https://waxy.org/wp-content/uploads/2026/07/image-4-e1785536333448.png"
-    },
-    {
-      "source": "Waxy",
-      "sourceUrl": "https://waxy.org/",
-      "title": "A Little Waxy Refresh",
-      "link": "https://waxy.org/2026/07/a-little-waxy-refresh/",
-      "date": "2026-07-30T21:31:28.000Z",
-      "timestamp": 1785447088000,
-      "excerpt": "I updated Waxy.org's design over the last few weeks, part of a series of updates to some of my long-dormant projects.",
-      "image": "https://waxy.org/wp-content/uploads/2026/07/image-1024x706.png"
-    },
-    {
-      "source": "Waxy",
-      "sourceUrl": "https://waxy.org/",
-      "title": "Boxsquad",
-      "link": "https://spacetypegenerator.com/boxsquad",
-      "date": "2026-07-30T19:31:14.000Z",
-      "timestamp": 1785439874000,
-      "excerpt": "new from the creator of Space Type Generator, be sure to turn on the “twerk” option #",
-      "image": null
-    },
-    {
-      "source": "Waxy",
-      "sourceUrl": "https://waxy.org/",
-      "title": "Restaurants are leaning into handmade/DIY aesthetics as AI slop grows",
-      "link": "https://www.eater.com/trends/975087/restaurants-lean-into-bespoke-handmade-elements-during-ai-flyer-backlash",
-      "date": "2026-07-26T18:08:38.000Z",
-      "timestamp": 1785089318000,
-      "excerpt": "we’re going to see this backlash everywhere to the polished blandness of generated imagery Caitlin Dewey #",
-      "image": null
-    },
-    {
-      "source": "Waxy",
-      "sourceUrl": "https://waxy.org/",
-      "title": "How AI agents forced a 30-year-old movie box office stats website offline",
-      "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "date": "2026-07-23T15:42:37.000Z",
-      "timestamp": 1784821357000,
-      "excerpt": "an escalating flood of agentic traffic, plus attempts to hack the server to manipulate prediction markets #",
-      "image": null
-    },
-    {
-      "source": "Waxy",
-      "sourceUrl": "https://waxy.org/",
-      "title": "3D gaussian splat tour of San Francisco’s Grace Cathedral",
-      "link": "https://vincentwoo.com/3d/grace_cathedral/",
-      "date": "2026-07-23T15:39:19.000Z",
-      "timestamp": 1784821159000,
-      "excerpt": "many nice touches from the the cutaway view to the cars and ambient audio, try WASD movement inside with Shift to sprint #",
-      "image": null
-    },
-    {
-      "source": "Waxy",
-      "sourceUrl": "https://waxy.org/",
-      "title": "NYT on how Google’s AI search is hurting the open web",
-      "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html?unlocked_article_code=1.zVA.A1LZ.AwMkNDLrNcPc&smid=url-share",
-      "date": "2026-07-21T17:24:04.000Z",
-      "timestamp": 1784654644000,
-      "excerpt": "starving websites big and small of search traffic while regurgitating their information for profit #",
-      "image": null
-    },
-    {
-      "source": "Kottke",
-      "sourceUrl": "https://kottke.org/",
-      "title": "Every Sample from Paul&#8217;s Boutique by the Beastie Boys",
-      "link": "https://kottke.org/19/12/every-sample-from-pauls-boutique-by-the-beastie-boys",
-      "date": "2019-12-23T21:22:27.000Z",
-      "timestamp": 1577136147000,
-      "excerpt": "This video catalogs every borrowed sample from Paul’s Boutique by the Beastie Boys, from the soundtrack to Car Wash to the Sugarhill Gang to the Eagles to the Ramones to the Beatles. They play the original first and then what they did with it on the album. Somehow this video o...",
-      "image": null
     }
   ]
 }
