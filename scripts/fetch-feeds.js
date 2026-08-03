@@ -10,7 +10,7 @@ const path = require("path");
 const Parser = require("rss-parser");
 
 const parser = new Parser({
-  timeout: 150,
+  timeout: 15000,
   headers: { "User-Agent": "blogscroll-feed-reader/1.0" },
 });
 
