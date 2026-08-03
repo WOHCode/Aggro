@@ -101,19 +101,36 @@ async function fetchOneFeed(feedConfig) {
   }
 }
 
+async function fetchOneScraper(scraperName) {
+  console.log(`… scraping ${scraperName}`);
+  try {
+    const scraperModule = require(path.join(__dirname, "scrapers", `${scraperName}.js`));
+    const items = await scraperModule.scrape();
+    console.log(`✓ ${scraperName}: ${items.length} items`);
+    return items;
+  } catch (err) {
+    console.error(`✗ ${scraperName}: ${err.message}`);
+    return [];
+  }
+}
+
 async function main() {
   const config = JSON.parse(fs.readFileSync(FEEDS_CONFIG, "utf8"));
   const feeds = config.feeds || [];
+  const scrapers = config.scrapers || [];
 
-  if (feeds.length === 0) {
-    console.error("No feeds configured in feeds.json");
+  if (feeds.length === 0 && scrapers.length === 0) {
+    console.error("No feeds or scrapers configured in feeds.json");
     process.exit(1);
   }
 
-  const results = await Promise.all(
+  const feedResults = await Promise.all(
     feeds.map((f) => withHardTimeout(fetchOneFeed(f), 20000, f.name || f.url))
   );
-  let allItems = results.flat();
+  const scraperResults = await Promise.all(
+    scrapers.map((name) => withHardTimeout(fetchOneScraper(name), 25000, name))
+  );
+  let allItems = feedResults.flat().concat(scraperResults.flat());
 
   // Sort newest first, drop items with no date to the bottom.
   allItems.sort((a, b) => b.timestamp - a.timestamp);
