@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T23:03:06.652Z",
-  "count": 8,
+  "generatedAt": "2026-08-03T23:03:48.955Z",
+  "count": 26,
   "items": [
     {
       "source": "dazed",
@@ -81,6 +81,204 @@
       "timestamp": 1785749820000,
       "excerpt": "Back in 2023, Dazed wrote about a wave of sickly sweet, dessert-inspired beauty products. Three years on, the sugar rush shows no signs of slowing down – and this summer it's ice cream that's dominating beauty moodboards. From Abel's vanilla fragrance Double Scoop to LOEWE cel...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/0/1450549.jpg"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Everybody ♡s Xaviersobased",
+      "link": "https://www.ssense.com/en-gb/editorial/music/xaviersobased-profile",
+      "date": "2026-07-27T00:00:00.000Z",
+      "timestamp": 1785110400000,
+      "excerpt": "How New York's hottest young rapper is building a life beyond the internet.",
+      "image": null,
+      "category": "Music"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "ISABELLA LOVESTORY IS COMING CLEAN",
+      "link": "https://www.ssense.com/en-gb/editorial/music/isabella-lovestory-interview",
+      "date": "2026-07-23T00:00:00.000Z",
+      "timestamp": 1784764800000,
+      "excerpt": "The perreo-pop auteur has spent years building worlds. Now she’s burning one down to make room for the next.",
+      "image": null,
+      "category": "Music"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "The Rise of Intellectual Clout",
+      "link": "https://www.ssense.com/en-gb/editorial/culture/intellectual-clout",
+      "date": "2026-07-13T00:00:00.000Z",
+      "timestamp": 1783900800000,
+      "excerpt": "Creators like Predictive History’s Jiang Xueqin and Sedo are ushering in a new era of scholarly consumption that trades brainrot for Plato.",
+      "image": null,
+      "category": "Culture"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "The Weird Prophetic Dreams of Aydan Nix",
+      "link": "https://www.ssense.com/en-gb/editorial/fashion/aydan-nix-profile",
+      "date": "2026-07-08T00:00:00.000Z",
+      "timestamp": 1783468800000,
+      "excerpt": "Her life was upended last year when the tabloids revealed she was a half-sister to Gigi and Bella Hadid. Now the 24-year-old stylist is attempting to balance her surreal new reality while making a career that she can be proud of.",
+      "image": null,
+      "category": "Fashion"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Brutalismus 3000 Dreamt in American",
+      "link": "https://www.ssense.com/en-gb/editorial/music/brutalismus-3000-harmony-interview",
+      "date": "2026-07-01T00:00:00.000Z",
+      "timestamp": 1782864000000,
+      "excerpt": "The duo’s aggressive new album ‘Harmony’ turns anxiety, contradiction, and collective release into something refreshingly hopeful.",
+      "image": null,
+      "category": "Music"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "The Future of Men According to Pitti Uomo",
+      "link": "https://www.ssense.com/en-gb/editorial/fashion/pitti-uomo-michael-the-iii",
+      "date": "2026-06-25T00:00:00.000Z",
+      "timestamp": 1782345600000,
+      "excerpt": "A dispatch from Michael the III as he navigates the legendary menswear show in Italy.",
+      "image": null,
+      "category": "Fashion"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "John Early’s Dumb, Big-Hearted Masterpiece",
+      "link": "https://www.ssense.com/en-gb/editorial/culture/john-early-maddies-secret-profile",
+      "date": "2026-06-23T00:00:00.000Z",
+      "timestamp": 1782172800000,
+      "excerpt": "The comedian opens up about his breakthrough directorial debut ‘Maddie’s Secret.’",
+      "image": null,
+      "category": "Culture"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Mohammed El-Kurd Is Just Being Honest",
+      "link": "https://www.ssense.com/en-gb/editorial/culture/mohammed-el-kurd-perfect-victims",
+      "date": "2026-06-18T00:00:00.000Z",
+      "timestamp": 1781740800000,
+      "excerpt": "A conversation with the Palestinian poet and author of ‘Perfect Victims’ about language, subversion, and the strangeness of visibility.",
+      "image": null,
+      "category": "Culture"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Mary HK Choi Tries a New Perspective",
+      "link": "https://www.ssense.com/en-gb/editorial/culture/mary-hk-choi-pool-house-interview",
+      "date": "2026-06-10T00:00:00.000Z",
+      "timestamp": 1781049600000,
+      "excerpt": "On the occasion of her new novel ‘Pool House,’ the author sits down with writer Alexander Chee for a wide-ranging conversation about craft.",
+      "image": null,
+      "category": "Culture"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Precious Renee Tucker Seeks Eureka",
+      "link": "https://www.ssense.com/en-gb/editorial/fashion/precious-renee-tucker-seeks-eureka",
+      "date": "2026-06-08T00:00:00.000Z",
+      "timestamp": 1780876800000,
+      "excerpt": "Inside the world of fashion’s favorite experimental pianist.",
+      "image": null,
+      "category": "Fashion"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Park Workouts with Show Me the Body",
+      "link": "https://www.ssense.com/en-gb/editorial/culture/show-me-the-body-workout",
+      "date": "2026-05-29T00:00:00.000Z",
+      "timestamp": 1780012800000,
+      "excerpt": "Sami Reiss hits the park with singer Julian Pratt for some calisthenics.",
+      "image": null,
+      "category": "Culture"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "The Secret to Bruce Lee’s Underrated Style",
+      "link": "https://www.ssense.com/en-gb/editorial/fashion/the-secret-to-bruce-lees-underrated-style",
+      "date": "2026-05-20T00:00:00.000Z",
+      "timestamp": 1779235200000,
+      "excerpt": "To celebrate his estate’s collaboration with Lu’u Dan, a look inside his iconic closet full of bespoke and designer duds.",
+      "image": null,
+      "category": "Fashion"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "A Debut Film That Actually Feels Dangerous",
+      "link": "https://www.ssense.com/en-gb/editorial/culture/blue-film-controversy",
+      "date": "2026-05-15T00:00:00.000Z",
+      "timestamp": 1778803200000,
+      "excerpt": "Director Elliot Tuttle’s ‘Blue Film’ was rejected from Sundance and nearly all the other major festivals—and it’s a deeply unsettling reminder of the power of transgressive art in a media ecosystem that often plays it safe.",
+      "image": null,
+      "category": "Culture"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Birdwatching in Tokyo",
+      "link": "https://www.ssense.com/en-gb/editorial/travel/birdwatching-tokyo",
+      "date": "2026-05-07T00:00:00.000Z",
+      "timestamp": 1778112000000,
+      "excerpt": "A guide on how to get started.",
+      "image": null,
+      "category": "Travel"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "That Cool Girl from India",
+      "link": "https://www.ssense.com/en-gb/editorial/culture/diya-joukani-designer-interview",
+      "date": "2026-04-29T00:00:00.000Z",
+      "timestamp": 1777420800000,
+      "excerpt": "How Diya Joukani, a self-taught streetwear designer from Mumbai, is providing a new global blueprint.",
+      "image": null,
+      "category": "Culture"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Inside Michael Scanlon’s Inspiration Folder",
+      "link": "https://www.ssense.com/en-gb/editorial/culture/unlikely-inspirations-michael-scanlon",
+      "date": "2026-04-22T00:00:00.000Z",
+      "timestamp": 1776816000000,
+      "excerpt": "The art, films, and more that have informed the work of the creative director whose resume includes Hailey Bieber’s Rhode, Khaite, and Hermés.",
+      "image": null,
+      "category": "Culture"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Chloe Misseldine’s Athletic Feats",
+      "link": "https://www.ssense.com/en-gb/editorial/culture/chloe-misseldine-ballet",
+      "date": "2026-04-15T00:00:00.000Z",
+      "timestamp": 1776211200000,
+      "excerpt": "The American Ballet Theater principal dancer, at just 24, is already a star in the making.",
+      "image": null,
+      "category": "Culture"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Circling Back",
+      "link": "https://www.ssense.com/en-gb/editorial/fashion/ss26-campaign",
+      "date": "2026-04-06T00:00:00.000Z",
+      "timestamp": 1775433600000,
+      "excerpt": "Clock back in with some of our favorite designer looks for spring/summer ‘26.",
+      "image": null,
+      "category": "Fashion"
     }
   ]
 }
