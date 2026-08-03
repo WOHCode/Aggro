@@ -4,7 +4,7 @@
    warm off-white ink, and a single bookmark-ribbon gold accent.
 ------------------------------------------------------------------ */
 :root {
-  --bg: #14151a;
+  --bg: #ffffff /*#14151a;*/
   --bg-card: #191a20;
   --ink: #ece7db;
   --ink-dim: #9b968a;
