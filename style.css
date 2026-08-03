@@ -1,0 +1,281 @@
+/* ---------------------------------------------------------------
+   Tokens
+   A quiet "reading room at night" palette: near-black paper,
+   warm off-white ink, and a single bookmark-ribbon gold accent.
+------------------------------------------------------------------ */
+:root {
+  --bg: #14151a;
+  --bg-card: #191a20;
+  --ink: #ece7db;
+  --ink-dim: #9b968a;
+  --ink-faint: #5c584f;
+  --accent: #c9a24b;
+  --accent-dim: #8a723a;
+  --rule: #2a2b32;
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --spine-width: 34px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------------------------------------------------------------
+   Top bar
+------------------------------------------------------------------ */
+#topbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: var(--spine-width);
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  z-index: 20;
+  pointer-events: none;
+  background: linear-gradient(to bottom, rgba(20,21,26,0.85), transparent);
+}
+
+.brand {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+  color: var(--ink);
+}
+
+#position-indicator {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--ink-dim);
+  letter-spacing: 0.05em;
+}
+
+/* ---------------------------------------------------------------
+   Feed: full-viewport vertical snap scroll
+------------------------------------------------------------------ */
+#feed {
+  height: 100dvh;
+  width: 100%;
+  padding-right: var(--spine-width);
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  outline: none;
+}
+
+#feed::-webkit-scrollbar { display: none; }
+#feed { scrollbar-width: none; }
+
+.card {
+  position: relative;
+  height: 100dvh;
+  width: 100%;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 96px 32px 56px;
+  overflow: hidden;
+  border-bottom: 1px solid var(--rule);
+}
+
+.card-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  filter: saturate(0.9) brightness(0.62);
+  transform: scale(1.02);
+}
+
+.card-bg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(15,16,20,0.96) 10%, rgba(15,16,20,0.35) 55%, rgba(15,16,20,0.15) 100%);
+}
+
+.card.no-image {
+  background:
+    radial-gradient(circle at 15% 20%, rgba(201,162,75,0.08), transparent 45%),
+    var(--bg-card);
+}
+
+.card-content {
+  position: relative;
+  z-index: 2;
+  max-width: 640px;
+}
+
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 14px;
+}
+
+.eyebrow .dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+.card-title {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: clamp(1.6rem, 4vw, 2.6rem);
+  line-height: 1.12;
+  letter-spacing: -0.01em;
+  margin: 0 0 14px;
+  color: var(--ink);
+}
+
+.card-excerpt {
+  font-size: 0.98rem;
+  line-height: 1.55;
+  color: var(--ink-dim);
+  margin: 0 0 22px;
+  max-width: 56ch;
+}
+
+.card-footer {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.card-date {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.04em;
+}
+
+.read-link {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.88rem;
+  color: var(--bg);
+  background: var(--accent);
+  padding: 9px 16px;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.read-link:hover {
+  background: #ddb85e;
+  transform: translateY(-1px);
+}
+
+.read-link:focus-visible,
+#feed:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* ---------------------------------------------------------------
+   Spine: a bookmark-ribbon progress indicator along the right edge
+------------------------------------------------------------------ */
+#spine {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: var(--spine-width);
+  height: 100dvh;
+  z-index: 25;
+  background: var(--bg);
+  border-left: 1px solid var(--rule);
+}
+
+#spine .tick {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: var(--ink-faint);
+  transition: background 0.2s ease, width 0.2s ease, height 0.2s ease;
+}
+
+#spine .tick.active {
+  background: var(--accent);
+  width: 6px;
+  height: 6px;
+  box-shadow: 0 0 8px rgba(201,162,75,0.6);
+}
+
+/* ---------------------------------------------------------------
+   Empty state
+------------------------------------------------------------------ */
+#empty-state {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 24px;
+  gap: 8px;
+}
+
+.empty-title {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  margin: 0;
+}
+
+.empty-body {
+  color: var(--ink-dim);
+  font-size: 0.9rem;
+  max-width: 40ch;
+  margin: 0;
+}
+
+.empty-body code {
+  font-family: var(--font-mono);
+  background: var(--bg-card);
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: var(--accent);
+}
+
+/* ---------------------------------------------------------------
+   Small screens
+------------------------------------------------------------------ */
+@media (max-width: 480px) {
+  :root { --spine-width: 18px; }
+  .card { padding: 80px 20px 40px; }
+  .card-title { font-size: 1.5rem; }
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  #feed { scroll-behavior: auto; }
+  .read-link { transition: none; }
+}
