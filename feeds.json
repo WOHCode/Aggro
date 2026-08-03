@@ -1,7 +1,7 @@
 {
   "feeds": [
-    { "name": "PAUSE", "url": "https://pausemag.co.uk/" },
-    { "name": "SSENSE", "url": "https://www.ssense.com/en-gb/editorial/" },
-    { "name": "dazed", "url": "https://www.dazeddigital.com/rss/" }
-  ]
+    { "name": "dazed", "url": "https://www.dazeddigital.com/rss/" },
+    { "name": "PAUSE", "url": "https://pausemag.co.uk/feed/" }
+  ],
+  "scrapers": ["ssense"]
 }
