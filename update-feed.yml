@@ -1,0 +1,69 @@
+name: Update feed and deploy
+
+on:
+  schedule:
+    # Every 4 hours. Edit the cron expression to change frequency.
+    - cron: "0 */4 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch latest posts
+        run: node scripts/fetch-feeds.js
+
+      - name: Commit updated feed data
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "actions@github.com"
+          git add data/feed.json
+          git diff --quiet --cached || git commit -m "Update feed data [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # --- GitHub Pages deploy -------------------------------------------
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+
+      # --- Optional: Neocities deploy instead/as well ---------------------
+      # Uncomment this block and add a NEOCITIES_API_KEY secret in your repo
+      # settings if you'd rather (or also) host on Neocities.
+      #
+      # - name: Deploy to Neocities
+      #   run: |
+      #     curl -s https://neocities.org/api/upload \
+      #       -H "Authorization: Bearer ${{ secrets.NEOCITIES_API_KEY }}" \
+      #       -F "index.html=@index.html" \
+      #       -F "style.css=@style.css" \
+      #       -F "app.js=@app.js" \
+      #       -F "data/feed.json=@data/feed.json"
