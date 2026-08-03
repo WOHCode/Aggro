@@ -1,8 +1,6 @@
 {
   "feeds": [
-    { "name": "Waxy", "url": "https://waxy.org/feed/" },
-    { "name": "Kottke", "url": "https://feeds.kottke.org/main" },
-    { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/" },
+    { "name": "PAUSE", "url": "https://pausemag.co.uk" },
     { "name": "dazed", "url": "https://www.dazeddigital.com/rss/" }
   ]
 }
