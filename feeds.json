@@ -1,12 +1,7 @@
 {
   "feeds": [
     { "name": "dazed", "url": "https://www.dazeddigital.com/rss/" },
-    { "name": "1granary1", "url": "https://1granary.com/feed/" },
-    { "name": "1granary2", "url": "https://1granary.com/rss/" },
-    { "name": "1granary3", "url": "https://1granary.com/atom/" },
-    { "name": "PAUSE1", "url": "https://pausemag.co.uk/feed/" },
-    { "name": "PAUSE2", "url": "https://pausemag.co.uk/rss/" },
-    { "name": "PAUSE3", "url": "https://pausemag.co.uk/atom/" }
+    { "name": "1granary1", "url": "https://1granary.com/feed/" }
   ],
-  "scrapers": ["ssense"]
+  "scrapers": ["ssense","pause"]
 }
