@@ -34,7 +34,25 @@ function absolutize(href, base) {
 async function scrapeWordPressArchive(feedConfig) {
   const { url, name } = feedConfig;
 
-  const res = await fetch(url, { headers: BROWSER_HEADERS });
+  // Give the page fetch its own explicit timeout, separate from (and
+  // shorter than) the outer per-source deadline in fetch-feeds.js — this
+  // way a slow server produces a clear "timed out fetching the page"
+  // error instead of silently running out the outer clock.
+  const controller = new AbortController();
+  const fetchTimeout = setTimeout(() => controller.abort(), 20000);
+
+  let res;
+  try {
+    res = await fetch(url, { headers: BROWSER_HEADERS, signal: controller.signal });
+  } catch (err) {
+    if (err.name === "AbortError") {
+      throw new Error("timed out fetching the page (20s)");
+    }
+    throw err;
+  } finally {
+    clearTimeout(fetchTimeout);
+  }
+
   if (!res.ok) {
     throw new Error(`Status code ${res.status}`);
   }
