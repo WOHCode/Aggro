@@ -133,7 +133,7 @@ async function main() {
     feeds.map((f) => withHardTimeout(fetchOneFeed(f), 25000, f.name || f.url))
   );
   const scraperResults = await Promise.all(
-    scrapers.map((name) => withHardTimeout(fetchOneScraper(name), 25000, name))
+    scrapers.map((name) => withHardTimeout(fetchOneScraper(name), 30000, name))
   );
   let allItems = feedResults.flat().concat(scraperResults.flat());
 
