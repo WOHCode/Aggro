@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-13T13:19:38.369Z",
+  "generatedAt": "2026-08-13T16:59:26.209Z",
   "count": 26,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "Björk celebrates solar eclipse with celestial rave",
+      "link": "https://www.dazeddigital.com/fashion/article/70803/1/photos-from-bjorks-celestial-solar-eclipse-rave-in-iceland?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=bjork-celebrates-solar-eclipse-with-celestial-rave",
+      "date": "2026-08-13T13:43:00.000Z",
+      "timestamp": 1786628580000,
+      "excerpt": "Unless you’ve been living under a rock, you’ll know that yesterday evening (August 12), Europe witnessed a rare solar eclipse. As our designated messenger between Earth and all things extraterrestrial, naturally, Björk threw a rave to celebrate the occasion. Hosted on the outs...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/1/1451240.jpg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -16,7 +26,7 @@
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
       "title": "Are AI dating apps ushering in the era of swipeless dating?",
-      "link": "https://www.dazeddigital.com/life-culture/article/70801/1/is-ai-match-making-the-answer-to-the-crisis-of-dating?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=are-ai-dating-apps-ushering-in-the-era-of-swipeless-dating",
+      "link": "https://www.dazeddigital.com/life-culture/article/70801/1/are-ai-dating-apps-ushering-in-the-era-of-swipeless-dating?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=are-ai-dating-apps-ushering-in-the-era-of-swipeless-dating",
       "date": "2026-08-13T12:23:00.000Z",
       "timestamp": 1786623780000,
       "excerpt": "It’s hard to imagine the experience of dating without swiping. But ‘Overtone’, a new app from Hinge founder Justin McLeod, will soon make this a reality. Instead of split-second and often shallow decisions, the new model is based on a curated matchmaking service. The matchmake...",
@@ -41,6 +51,17 @@
       "timestamp": 1786615260000,
       "excerpt": "The Dazed Beauty Community is our ever-expanding encyclopaedia of creatives and emerging talent from across the world redefining how we think about beauty. Discover them here. There is something particularly satisfying about seeing an artist transform a reference from one medi...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/1/1451174.JPG"
+    },
+    {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Rachel Aviv and the Strange Gifts of Motherhood",
+      "link": "https://www.ssense.com/en-gb/editorial/culture/rachel-aviv-you-wont-get-free-of-it",
+      "date": "2026-08-13T00:00:00.000Z",
+      "timestamp": 1786579200000,
+      "excerpt": "Grace Byron on the author’s new collection ‘You Won’t Get Free of It: Stories of Mothers and Daughters.’",
+      "image": null,
+      "category": "Culture"
     },
     {
       "source": "dazed",
@@ -71,16 +92,6 @@
       "timestamp": 1786530900000,
       "excerpt": "Danish fashion designers punch far above their weight – the relatively small capital of Copenhagen has an outsized impact on fashion trends across the world. This has long been the case (there are too many “Scandi style” trends to keep track of), but it was especially true as...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/1/1451139.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "Remembering WET: the magazine that made a splash in 70s LA",
-      "link": "https://www.dazeddigital.com/art-photography/article/70794/1/remembering-wet-the-magazine-that-made-a-splash-in-70s-la?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=remembering-wet-the-magazine-that-made-a-splash-in-70s-la",
-      "date": "2026-08-12T10:21:00.000Z",
-      "timestamp": 1786530060000,
-      "excerpt": "In 1976, architecture graduate Leonard Koren threw a party in LA. Since completing his masters, he’d lost interest in architecture and began experimenting with bath art. This consisted mostly of asking volunteers to strip off and bathe in water, mud or steam while he photograp...",
-      "image": "https://images-prod.dazeddigital.com/750/azure/dazed-prod/1450/1/1451132.jpeg"
     },
     {
       "source": "SSENSE",
@@ -266,17 +277,6 @@
       "date": "2026-04-22T00:00:00.000Z",
       "timestamp": 1776816000000,
       "excerpt": "The art, films, and more that have informed the work of the creative director whose resume includes Hailey Bieber’s Rhode, Khaite, and Hermés.",
-      "image": null,
-      "category": "Culture"
-    },
-    {
-      "source": "SSENSE",
-      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
-      "title": "Chloe Misseldine’s Athletic Feats",
-      "link": "https://www.ssense.com/en-gb/editorial/culture/chloe-misseldine-ballet",
-      "date": "2026-04-15T00:00:00.000Z",
-      "timestamp": 1776211200000,
-      "excerpt": "The American Ballet Theater principal dancer, at just 24, is already a star in the making.",
       "image": null,
       "category": "Culture"
     }
