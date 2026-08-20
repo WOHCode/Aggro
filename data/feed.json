@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-08-20T12:55:46.127Z",
+  "generatedAt": "2026-08-20T16:38:32.107Z",
   "count": 56,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "In Pretty Babies, Hollywood glamour collides with the realities of sex work",
+      "link": "https://www.dazeddigital.com/life-culture/article/70828/1/pretty-babies-film-tyler-marie-evans-interview-sex-work-hollywood?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pretty-babies-hollywood-glamour-collides-with-the-realities-of-sex-work",
+      "date": "2026-08-20T15:57:00.000Z",
+      "timestamp": 1787241420000,
+      "excerpt": "When Tyler-Marie Evans was a young adult, she swapped Christianity for cinema, and encountered a different, more flickering kind of light. “I was in this cult-y church,” she recalls. “I wasn’t allowed to talk to people outside the church. My sense of life was restricted.” Such...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/1/1451552.jpeg"
+    },
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "This year, cinema is urging us to embrace our sexual failures",
+      "link": "https://www.dazeddigital.com/film-tv/article/70827/1/cinema-sexual-failure-teenage-sex-death-camp-miasma-dissociation-polyamory?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-year-cinema-is-urging-us-to-embrace-our-sexual-failures",
+      "date": "2026-08-20T15:15:00.000Z",
+      "timestamp": 1787238900000,
+      "excerpt": "It’s been over a decade since Sky Ferreira’s “Everything Is Embarrassing” became canonised as a modern anthem, and we are still cringing at everything. Those in relationships are hiding their boyfriends, while singles are using stills of Carrie Bradshaw at Big's door to signif...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/1/1451550.jpg"
+    },
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "‘He never needs to drop again’: The legacy of Frank Ocean’s Blonde",
+      "link": "https://www.dazeddigital.com/music/article/70820/1/frank-ocean-blonde-tenth-anniversary-cultural-legacy-fans-reflect?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=he-never-needs-to-drop-again-the-legacy-of-frank-ocean-s-blonde",
+      "date": "2026-08-20T12:58:23.000Z",
+      "timestamp": 1787230703000,
+      "excerpt": "10 years ago, Christopher Edwin Breaux, known to the world as Frank Ocean, dropped his second studio album, Blonde. Released 48 hours after publishing his ambient 45-minute visual album Endless (the album he used to fulfil his contract obligations to Def Jam and Universal), th...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1260/8/1268842.jpg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -13,14 +43,45 @@
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/1/1451463.jpg"
     },
     {
+      "source": "SSENSE",
+      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
+      "title": "Plain White Tees",
+      "link": "https://www.ssense.com/en-gb/editorial/market/best-white-t-shirts-merz-b-schwanen-the-row",
+      "date": "2026-08-20T00:00:00.000Z",
+      "timestamp": 1787184000000,
+      "excerpt": "From Carmy’s signature Merz b. Schwanen tee to the minimalism of The Row, explore the best white T-shirts on SSENSE and elsewhere.",
+      "image": null,
+      "category": "Market"
+    },
+    {
       "source": "PAUSE",
       "sourceUrl": "https://pausemag.co.uk",
-      "title": "Daily Paper Unveil New Fall Winter 2026 CollectionAugust 20, 2026",
-      "link": "https://pausemag.co.uk/2026/08/daily-paper-unveil-new-fall-winter-2026-collection/",
+      "title": "Moose Knuckles Introduce Their Fall Winter 2026 Quilt CollectionAugust 20, 2026",
+      "link": "https://pausemag.co.uk/2026/08/moose-knuckles-introduce-their-fall-winter-2026-quilt-collection/",
       "date": "2026-08-20T00:00:00.000Z",
       "timestamp": 1787184000000,
       "excerpt": "",
-      "image": "https://pausemag.co.uk/wp-content/uploads/2026/08/06_184-600x403.jpg"
+      "image": "https://pausemag.co.uk/wp-content/uploads/2026/08/Moose-Knuckle-Iceberg-Shoot2704-600x403.jpg"
+    },
+    {
+      "source": "PAUSE",
+      "sourceUrl": "https://pausemag.co.uk",
+      "title": "Stone Island Release a Special Edition Vinyl of Hive MindAugust 20, 2026",
+      "link": "https://pausemag.co.uk/2026/08/stone-island-release-a-special-edition-vinyl-of-hive-mind/",
+      "date": "2026-08-20T00:00:00.000Z",
+      "timestamp": 1787184000000,
+      "excerpt": "",
+      "image": "https://pausemag.co.uk/wp-content/uploads/2026/08/5.-02494-0004-1-600x403.jpg"
+    },
+    {
+      "source": "PAUSE",
+      "sourceUrl": "https://pausemag.co.uk",
+      "title": "Stella McCartney Release Their Fall Winter 2026 CollectionAugust 20, 2026",
+      "link": "https://pausemag.co.uk/2026/08/stella-mccartney-release-their-fall-winter-2026-collection/",
+      "date": "2026-08-20T00:00:00.000Z",
+      "timestamp": 1787184000000,
+      "excerpt": "",
+      "image": "https://pausemag.co.uk/wp-content/uploads/2026/08/SMC26_WI26_CAMPAIGN_16x9_8-600x403.jpg"
     },
     {
       "source": "dazed",
@@ -61,56 +122,6 @@
       "timestamp": 1787141280000,
       "excerpt": "If one accessory ruled this summer, it wasn’t raffia beach bags or bug-eyed shades. The handheld fan – frantically flapping in festival crowds, whizzing silently on public transport or draped over shoulders as a resourceful, futurist-apocalyptic form of neckwear – is now a sum...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1370/5/1375007.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "The bob is dead! 2026 is the year of ridiculously long hair",
-      "link": "https://www.dazeddigital.com/beauty/article/70367/1/why-is-long-hair-the-beauty-trend-of-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-bob-is-dead-2026-is-the-year-of-ridiculously-long-hair",
-      "date": "2026-08-19T12:06:00.000Z",
-      "timestamp": 1787141160000,
-      "excerpt": "THE TREND: Really, really, ridiculously long hair WHO’S DOING IT? Teyana Taylor; Jules on Euphoria; Meg Stalter; Adéla; FKA twigs; ravers in Glasgow, Reykjavik, London and Berlin; girls on the train platforms; the fashion set HOW CAN I GET IT? Grow it and grow it and then keep...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/1/1451444.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "What does it mean to be ‘underground’ in 2026?",
-      "link": "https://www.dazeddigital.com/music/article/70766/1/what-does-it-mean-to-be-underground-uk-ug-esdeekid-fake-mink?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=what-does-it-mean-to-be-underground-in-2026",
-      "date": "2026-08-19T10:50:00.000Z",
-      "timestamp": 1787136600000,
-      "excerpt": "Underground music is pretty popular right now. Not long after reportedly signing a £30 million record deal, UK Ug star EsDeeKid has just announced a headline show at London’s Wembley Arena, having played there as a support act (for Yung Lean) less than a year ago. Over in the...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/0/1450880.jpg"
-    },
-    {
-      "source": "PAUSE",
-      "sourceUrl": "https://pausemag.co.uk",
-      "title": "Chanel Unveils the Coco Mademoiselle Crush Absolu CampaignAugust 19, 2026",
-      "link": "https://pausemag.co.uk/2026/08/chanel-unveils-the-coco-mademoiselle-crush-absolu-campaign/",
-      "date": "2026-08-19T00:00:00.000Z",
-      "timestamp": 1787097600000,
-      "excerpt": "",
-      "image": "https://pausemag.co.uk/wp-content/uploads/2026/08/Coco-Mademoiselle-Gracie-Abrams-3-600x403.png"
-    },
-    {
-      "source": "PAUSE",
-      "sourceUrl": "https://pausemag.co.uk",
-      "title": "GAP and Malbon Return for Their Second CollaborationAugust 19, 2026",
-      "link": "https://pausemag.co.uk/2026/08/gap-and-malbon-return-for-their-second-collaboration/",
-      "date": "2026-08-19T00:00:00.000Z",
-      "timestamp": 1787097600000,
-      "excerpt": "",
-      "image": "https://pausemag.co.uk/wp-content/uploads/2026/08/W100_26_FA_COLLAB_OF_MALBON_3_03386_WB-600x403.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "These SCAD students prove the next gen of art is thriving in the South",
-      "link": "https://www.dazeddigital.com/art-photography/article/70805/1/scad-savannah-atlanta-college-of-art-and-design-next-generation-art?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-scad-students-prove-the-next-gen-of-art-is-thriving-in-the-south",
-      "date": "2026-08-18T16:55:00.000Z",
-      "timestamp": 1787072100000,
-      "excerpt": "When one thinks of America’s creative hubs, it’s natural that coastal cities like New York and Los Angeles come to mind. Nestled in the country’s Southeast corner, however, are two locales whose creative output has ushered in a new cultural renaissance: Savannah and Atlanta, G...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/1/1451268.jpg"
     },
     {
       "source": "PAUSE",
@@ -516,17 +527,6 @@
       "date": "2026-04-29T00:00:00.000Z",
       "timestamp": 1777420800000,
       "excerpt": "How Diya Joukani, a self-taught streetwear designer from Mumbai, is providing a new global blueprint.",
-      "image": null,
-      "category": "Culture"
-    },
-    {
-      "source": "SSENSE",
-      "sourceUrl": "https://www.ssense.com/en-gb/editorial",
-      "title": "Inside Michael Scanlon’s Inspiration Folder",
-      "link": "https://www.ssense.com/en-gb/editorial/culture/unlikely-inspirations-michael-scanlon",
-      "date": "2026-04-22T00:00:00.000Z",
-      "timestamp": 1776816000000,
-      "excerpt": "The art, films, and more that have informed the work of the creative director whose resume includes Hailey Bieber’s Rhode, Khaite, and Hermés.",
       "image": null,
       "category": "Culture"
     },
