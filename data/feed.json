@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-09-25T13:25:27.384Z",
+  "generatedAt": "2026-09-25T19:54:55.515Z",
   "count": 8,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "From rappers to nonnas, Demna hits shuffle on Gucci stereotypes for SS27",
+      "link": "https://www.dazeddigital.com/fashion/article/71042/1/demna-hits-shuffle-on-gucci-stereotypes-for-ss27-milan-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=from-rappers-to-nonnas-demna-hits-shuffle-on-gucci-stereotypes-for-ss27",
+      "date": "2026-09-25T16:48:00.000Z",
+      "timestamp": 1790354880000,
+      "excerpt": "Everyone has an idea of Gucci in their heads. After Louis Vuitton and its monogrammed handbags, Gucci is the second-most copied luxury brand in the world. For many people, the illegal counterfeit industry is their introduction to the brand – whether they realise they’re lookin...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455659.jpg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -71,16 +81,6 @@
       "timestamp": 1790264040000,
       "excerpt": "We’re looking for an emerging arts writer from Dazed Club to interview Swiss artist Renée Levi ahead of her new commission, September, at the Hayward Gallery. Opening on 23 September, September is a large-scale outdoor artwork that translates Levi’s painterly, gestural style o...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455453.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "HEYDUDE’s latest campaign is for those on the go",
-      "link": "https://www.dazeddigital.com/fashion/article/70979/1/heydude-summer-campaign-comfort-class?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=heydude-s-latest-campaign-is-for-those-on-the-go",
-      "date": "2026-09-24T14:11:00.000Z",
-      "timestamp": 1790259060000,
-      "excerpt": "The times are a-changin’. The weekday commute is no longer just about sweating on the Tube, eyes glued to your phone in case you accidentally make eye contact with a fellow worker or – God forbid – the man performatively reading Dostoevsky on the way to his incomprehensible jo...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/4/1454269.jpeg"
     }
   ]
 }
