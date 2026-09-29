@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-09-29T00:16:01.188Z",
+  "generatedAt": "2026-09-29T10:30:20.509Z",
   "count": 8,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "Everything is porn now",
+      "link": "https://www.dazeddigital.com/life-culture/article/70968/1/everything-is-porn-now-patricia-nilsson-guilty-pleasure-interview?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=everything-is-porn-now",
+      "date": "2026-09-29T10:05:00.000Z",
+      "timestamp": 1790676300000,
+      "excerpt": "A while ago, I ran a small (and very anecdotal) experiment. Since 2024, Instagram has enabled users to reset their recommendation algorithm, turning the Explore Page into a blank slate untouched by individual desires. So, curious to see what the app would serve based on my bas...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456156.png"
+    },
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "AI book recs are making us all read the same thing",
+      "link": "https://www.dazeddigital.com/life-culture/article/71057/1/is-ai-replacing-booksellers-books-reading-recommendations-taste-ai?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=ai-book-recs-are-making-us-all-read-the-same-thing",
+      "date": "2026-09-29T07:00:00.000Z",
+      "timestamp": 1790665200000,
+      "excerpt": "Last week, in the London bookshop where I work, a customer asked me for a walking guide. I was taking her through some options when she abruptly started typing on her phone. “ChatGPT recommended this. Do you have it?” We soon found what she wanted, but we’d sacrificed the huma...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/6/1456127.png"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -61,26 +81,6 @@
       "timestamp": 1790600880000,
       "excerpt": "A version of this article was first published 8 September 2026. Perhaps no other romantic myth is as ingrained in the Western psyche as ‘love at first sight’: it’s appealing to think love can happen in an instant and that we’re powerless to resist its pull. But, in reality, wh...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455885.jpeg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "Meet Loki, the musical maestro behind Gucci’s new era of sound",
-      "link": "https://www.dazeddigital.com/fashion/article/71044/1/loki-gucci-ss27-milan-fashion-week-mfw-demna-music-director?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-loki-the-musical-maestro-behind-gucci-s-new-era-of-sound",
-      "date": "2026-09-28T12:24:00.000Z",
-      "timestamp": 1790598240000,
-      "excerpt": "Though we may feel like we’re meeting Loki for the first time, this is merely a reintroduction. For the past decade, the artist formerly known as BFRND has been behind some of fashion’s most dystopian runway soundtracks, having cut his teeth in the goth and metal underground o...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455881.jpeg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "Meet Slayyyter’s BE$T DRESSED fans in Atlanta",
-      "link": "https://www.dazeddigital.com/fashion/article/71043/1/slayyyter-fans-atlanta-street-style-worst-girl-in-the-world-tour?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-slayyyter-s-bet-dressed-fans-in-atlanta",
-      "date": "2026-09-28T11:45:00.000Z",
-      "timestamp": 1790595900000,
-      "excerpt": "A bit of lighting and evening drizzle did little to deter the crowd outside Slayyyter’s sold-out Atlanta show on September 21. Fans circled the block in gas station trucker hats, rashly-hacked denim, and enough rhinestone-and-camo ornamentation to suggest that, somewhere nearb...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455693.jpg"
     }
   ]
 }
