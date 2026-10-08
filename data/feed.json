@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-10-08T15:23:28.413Z",
+  "generatedAt": "2026-10-08T21:09:57.456Z",
   "count": 8,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "Our Hero, Balthazar: A dark comedy on incel culture and gun violence",
+      "link": "https://www.dazeddigital.com/film-tv/article/71141/1/our-hero-balthazar-a-dark-comedy-on-incel-culture-and-gun-violence?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=our-hero-balthazar-a-dark-comedy-on-incel-culture-and-gun-violence",
+      "date": "2026-10-08T16:31:00.000Z",
+      "timestamp": 1791477060000,
+      "excerpt": "Oscar Boyson knew he was making a risky film. In late 2022, he and a journalist, Ricky Camilleri, started writing a screenplay inspired by a revelation from the Uvalde school shooting in May that year. On the morning that 18-year-old Salvador Ramos killed 21 people, he message...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457299.jpg"
+    },
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "Skate Sounds is the crew bringing the noise to London’s roller skate scene",
+      "link": "https://www.dazeddigital.com/fashion/article/70917/1/under-armour-skate-sounds-london-collective-rest-less?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=skate-sounds-is-the-crew-bringing-the-noise-to-london-s-roller-skate-scene",
+      "date": "2026-10-08T15:29:00.000Z",
+      "timestamp": 1791473340000,
+      "excerpt": "There are few better reminders of our free will than seeing a group of people on roller skates, whizzing through the city with a bluetooth speaker and a sense of unbridled joy. That might be why roller skating has become one of the most popular answers to the desperate lack of...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/4/1454840.jpg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -61,26 +81,6 @@
       "timestamp": 1791392160000,
       "excerpt": "Congratulations. You’ve made it. You’ve completed the final pitstop of the SS27 season, and Paris Fashion Week has been one hell of a ride. Matières Fécales grabbed our attention with its provocative celebration of The Ninety Nine Percent, turning Place de la République into a...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457200.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "A night at Girl Noise, an NYC festival ‘for girls by girls’",
-      "link": "https://www.dazeddigital.com/music/article/71132/1/a-night-at-girl-noise-an-nyc-festival-for-girls-by-girls-simone-lipkin?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=a-night-at-girl-noise-an-nyc-festival-for-girls-by-girls",
-      "date": "2026-10-07T16:24:00.000Z",
-      "timestamp": 1791390240000,
-      "excerpt": "On a damp Sunday night, October 4, Lower Manhattan’s Bowery Ballroom was transformed into a teen girl’s bedroom – well, sort of. The venue’s main area was cast in a warm pink glow, with star-shaped garlands draped around the balcony and zine-making booths, friendship bracelet-...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457156.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "Everything you need to know about France’s school protests",
-      "link": "https://www.dazeddigital.com/life-culture/article/71133/1/here-everything-need-know-about-france-school-protests-paris-suburbs-education?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=everything-you-need-to-know-about-france-s-school-protests",
-      "date": "2026-10-07T15:22:00.000Z",
-      "timestamp": 1791386520000,
-      "excerpt": "Some 250,000 students, teachers, and parents took to streets across France yesterday, in one of the country’s biggest demonstrations in recent history. By the end of the day, a reported 500 people had been arrested for protesting poor conditions, lack of investment and social...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457203.jpg"
     }
   ]
 }
