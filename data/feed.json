@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-10T05:05:24.206Z",
+  "generatedAt": "2026-10-10T14:20:34.106Z",
   "count": 8,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "How friends turn from strangers to found family in sun-soaked Marseille",
+      "link": "https://www.dazeddigital.com/fashion/article/71021/1/marseille-france-friendship-bako-under-armour-rest-less?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-friends-turn-from-strangers-to-found-family-in-sun-soaked-marseille",
+      "date": "2026-10-10T10:45:00.000Z",
+      "timestamp": 1791629100000,
+      "excerpt": "Marseille. A green dirt bike revs down a sunbaked city street. A group of friends skate down to the ocean to hang out. Someone sends a backflip into the glittering waves. It’s the kind of scene that would send a pang of jealousy through you, as you tap through Instagram storie...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455119.jpg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -71,16 +81,6 @@
       "timestamp": 1791542580000,
       "excerpt": "Claire de Rouen Books, the cult-favourite bookshop on London’s Kingsland Road, was packed to the brim this Wednesday (October 7) for the much-anticipated launch of Dazed’s latest issue. ICYMI, cocktails from Ghost Labs were flowing as Dazed Clubbers and their friends congregat...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457301.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "‘I argue with everyone’: The rise of the chaotic burner account",
-      "link": "https://www.dazeddigital.com/life-culture/article/71140/1/we-asked-people-what-they-really-use-their-burner-account-for-channing-tatum?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=i-argue-with-everyone-the-rise-of-the-chaotic-burner-account",
-      "date": "2026-10-09T09:36:00.000Z",
-      "timestamp": 1791538560000,
-      "excerpt": "Oscar Wilde once wrote that if you give a man a mask, he will tell you the truth. Last month, the internet began to speculate that Channing Tatum’s mask of choice was an Instagram burner with a green butterfly profile picture. The account, @bidness_nonya, was dedicated to snip...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457325.jpeg"
     }
   ]
 }
