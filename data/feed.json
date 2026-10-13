@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-10-13T11:32:42.500Z",
+  "generatedAt": "2026-10-13T19:03:41.194Z",
   "count": 8,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "This new dance production is a bedtime story for an uncertain world",
+      "link": "https://www.dazeddigital.com/life-culture/article/71151/1/dance-production-tellus-sadlers-wells-east-play-london?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-new-dance-production-is-a-bedtime-story-for-an-uncertain-world",
+      "date": "2026-10-13T15:26:00.000Z",
+      "timestamp": 1791905160000,
+      "excerpt": "Raising a child in a world that feels increasingly fractured and uncertain is a complicated task. How do you share the complexity of our current condition without bending the truth or being nihilistic? The answer for the Olivier Award-winning dancer, choreographer and composer...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457459.jpg"
+    },
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "In pictures: The Berlin night where artists bleed, strip and heal",
+      "link": "https://www.dazeddigital.com/beauty/article/71157/1/photos-skindeep-berlin-performance-night-artists-bleed-strip-and-heal?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-the-berlin-night-where-artists-bleed-strip-and-heal",
+      "date": "2026-10-13T13:27:00.000Z",
+      "timestamp": 1791898020000,
+      "excerpt": "“The plural of grief is us.” By the time Trace Polly speaks these words, I’ve already witnessed another woman enter the crowd with blood dripping from wounds around her navel. Now, a guitar hangs from her waist. Polly pulls a horsehair bow across its strings, alternating betwe...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457470.jpeg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -61,26 +81,6 @@
       "timestamp": 1791781860000,
       "excerpt": "Few photographers have had as profound an influence on image-making as William Eggleston. His vision of Americana, his use of colour and his poetic, cinematic treatment of everyday life – petrol stations, diners, suburban streets – forged a blueprint which continues to inform...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457350.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "How friends turn from strangers to found family in sun-soaked Marseille",
-      "link": "https://www.dazeddigital.com/fashion/article/71021/1/marseille-france-friendship-bako-under-armour-rest-less?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-friends-turn-from-strangers-to-found-family-in-sun-soaked-marseille",
-      "date": "2026-10-10T10:45:00.000Z",
-      "timestamp": 1791629100000,
-      "excerpt": "Marseille. A green dirt bike revs down a sunbaked city street. A group of friends skate down to the ocean to hang out. Someone sends a backflip into the glittering waves. It’s the kind of scene that would send a pang of jealousy through you, as you tap through Instagram storie...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/5/1455119.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "Anthony Vaccarello’s 7 sexiest collections at Saint Laurent",
-      "link": "https://www.dazeddigital.com/fashion/article/71147/1/anthony-vaccarello-saint-laurent-exit-seven-sexiest-collections?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=anthony-vaccarello-s-7-sexiest-collections-at-saint-laurent",
-      "date": "2026-10-09T18:35:00.000Z",
-      "timestamp": 1791570900000,
-      "excerpt": "Following his shimmering swan song at Paris Fashion Week, Anthony Vaccarello’s departure from Saint Laurent was confirmed this morning (October 9). During his decade-long tenure, the Belgian designer slowly reshaped the brand, setting out a seductive vision of liberated sensua...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457344.jpg"
     }
   ]
 }
