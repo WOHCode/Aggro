@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-15T16:35:59.282Z",
+  "generatedAt": "2026-10-15T22:57:17.691Z",
   "count": 8,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "GUESS Jeans taps Becky G for the low-rise renaissance",
+      "link": "https://www.dazeddigital.com/fashion/article/71137/1/guess-jean-with-becky-g-campaign-y2k?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=guess-jeans-taps-becky-g-for-the-low-rise-renaissance",
+      "date": "2026-10-15T16:47:00.000Z",
+      "timestamp": 1792082820000,
+      "excerpt": "Abandoned in the 2010s for their high-waisted siblings, low-rise jeans are having another moment in the culture, worn by models off-duty and becoming a staple for anyone wanting to indulge in noughties nostalgia. Now, GUESS is leaning into the revival with the launch of The B...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457253.jpg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -71,16 +81,6 @@
       "timestamp": 1791990900000,
       "excerpt": "The theme for the second-ever Ireland Fashion Week last week was “coming home”. It’s one I was eager for – I joined the opening dinner at Slane Castle on Wednesday, October 7, ready to tell everyone I’d meet about my Irish grandparents. Only I quickly realised I was just one o...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457634.jpeg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "The uncanny rehabilitation of Mark Zuckerberg",
-      "link": "https://www.dazeddigital.com/life-culture/article/71167/1/social-reckoning-film-reminder-not-to-trust-tech-bro-glow-up-mark-zuckerberg?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-uncanny-rehabilitation-of-mark-zuckerberg",
-      "date": "2026-10-14T15:05:00.000Z",
-      "timestamp": 1791990300000,
-      "excerpt": "There’s a video going around of Mark Zuckerberg trying to drink a pint of Guinness. Specifically, he’s trying to look like he enjoys drinking a pint of Guinness on a semi-regular basis. Which maybe he does. But the problem is, he desperately needs us to know that. The fate of...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457578.jpg"
     }
   ]
 }
