@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-30T14:55:24.159Z",
+  "generatedAt": "2026-10-30T20:33:43.657Z",
   "count": 8,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "Gabe Gordon is howling at the moon this Halloween",
+      "link": "https://www.dazeddigital.com/fashion/article/71274/1/gabe-gordon-is-howling-at-the-moon-this-halloween?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=gabe-gordon-is-howling-at-the-moon-this-halloween",
+      "date": "2026-10-30T16:15:00.000Z",
+      "timestamp": 1793376900000,
+      "excerpt": "Back in February, New York-based label Gabe Gordon presented its AW26 collection, Frostbite. It was a show that brought together two distinct references: 80s ice dancers and the cult horror movie An American Werewolf in London. The result was a series of cutesy looks, fit for...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458567.jpg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -71,16 +81,6 @@
       "timestamp": 1793360940000,
       "excerpt": "2013 had the Harlem Shake. 2015 had “Watch Me (Whip/Nae Nae)”. 2016 had the “Mannequin Challenge”. But 2026 has seen perhaps the most unexpected social media dance trend to date: in which ethnic groups across Eurasia show off their regional traditions to the futuristichellip;...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458539.png"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "6 tips to beat the ‘jobpocalypse’ as a creative student",
-      "link": "https://www.dazeddigital.com/life-culture/article/71191/1/antisyllabus-creatives-how-get-most-out-first-year-university-dazed-club-advice?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=6-tips-to-beat-the-jobpocalypse-as-a-creative-student",
-      "date": "2026-10-30T11:44:00.000Z",
-      "timestamp": 1793360640000,
-      "excerpt": "Antisyllabus is a brand new Dazed Club campaign to challenge, inspire and involve the next generation of creatives as they enter the ‘back to school’ period – without the cost of formal education! Keep an eye out for more articles, guides, events and more, and join Dazed Club...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458102.JPG"
     }
   ]
 }
