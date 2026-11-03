@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-03T02:04:33.536Z",
+  "generatedAt": "2026-11-03T11:43:57.759Z",
   "count": 8,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "How to survive holiday season, with Dazed US and Michael Kors",
+      "link": "https://www.dazeddigital.com/fashion/article/71280/1/how-to-survive-holiday-season-2026-with-dazed-us-and-michael-kors-new-collection?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-to-survive-holiday-season-with-dazed-us-and-michael-kors",
+      "date": "2026-11-03T11:34:00.000Z",
+      "timestamp": 1793705640000,
+      "excerpt": "Halloween has come and gone, the leaves have fallen and the temptation to say, “Let’s circle back in the New Year” is growing strong – in other words, the holiday season is here. From dropping temperatures to overbooked calendars, this time of year can prove stressful for mult...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458659.jpg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -71,16 +81,6 @@
       "timestamp": 1793622360000,
       "excerpt": "Tomorrow, on November 3, millions of Americans will head to the polls to vote in the midterm elections, which fall halfway through a president’s term and heavily influence the power they have in the second half of their presidency. With the Republican Party currently holding a...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458443.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "Horoscopes November 2026: Prepare for a major transformation!",
-      "link": "https://www.dazeddigital.com/beauty/article/71273/1/horoscopes-november-2026-scorpio-venus-retrograde-mercury-hell?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=horoscopes-november-2026-prepare-for-a-major-transformation",
-      "date": "2026-11-01T09:00:00.000Z",
-      "timestamp": 1793523600000,
-      "excerpt": "Grace McGrade is an intuitive astrologer based in Los Angeles. She is the head astrologer of the app Psyche. Her sessions include birth chart readings, transits, energetic clearings, and psychic consultations. For more astrology, read her guide to rising signs and read more ra...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458566.jpg"
     }
   ]
 }
