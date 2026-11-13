@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-12T16:40:14.815Z",
+  "generatedAt": "2026-11-13T00:57:10.192Z",
   "count": 8,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "Echo: The 5 best tracks from Ecco2k’s immersive new album",
+      "link": "https://www.dazeddigital.com/music/article/71351/1/echo-the-5-best-tracks-from-ecco2k-s-immersive-new-album-drain-gang?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=echo-the-5-best-tracks-from-ecco2k-s-immersive-new-album",
+      "date": "2026-11-12T19:02:00.000Z",
+      "timestamp": 1794510120000,
+      "excerpt": "It’s been seven years since enigmatic Drain Gang rapper-producer Ecco2k released his last – and, until today, only – solo album, but this is for good reason. If we take his new album, Echo, released today, at face value, it seems he’s spent that time on the run: he’s been “Han...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459372.jpg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -71,16 +81,6 @@
       "timestamp": 1794406920000,
       "excerpt": "2hollis, Dazed cover star and the underground’s poster boy who has ascended from the depths of the internet to arena-sized stardom, has built an entire universe for the release of his fifth studio album, Pirouette. In the lead-up to the record, the LA-born musician has been fe...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459216.jpeg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "Help! I’m obsessed with trying to look like my boyfriend’s ex",
-      "link": "https://www.dazeddigital.com/beauty/article/71340/1/our-partners-ex-exes-beauty-references-copying-beauty-boyfriend-girlfriend?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=help-i-m-obsessed-with-trying-to-look-like-my-boyfriend-s-ex",
-      "date": "2026-11-11T13:31:00.000Z",
-      "timestamp": 1794403860000,
-      "excerpt": "My ex-situationship’s ex-girlfriend paid me a visit in a dream a couple of weeks ago. She was all smooth, creamy skin and cascades of blonde waves, like some sort of Botticelli angel. She reached forward to hug me, and then I woke up. That was weird, I thought. Followed closel...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459261.jpg"
     }
   ]
 }
