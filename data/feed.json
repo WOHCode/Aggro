@@ -1,14 +1,34 @@
 {
-  "generatedAt": "2026-11-17T02:49:46.313Z",
+  "generatedAt": "2026-11-17T12:53:57.823Z",
   "count": 8,
   "items": [
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "Young people are bringing bringing socialism back to America",
+      "link": "https://www.dazeddigital.com/life-culture/article/71361/1/young-people-bringing-bringing-socialism-back-to-america-dsa-midterms?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=young-people-are-bringing-bringing-socialism-back-to-america",
+      "date": "2026-11-17T12:06:00.000Z",
+      "timestamp": 1794917160000,
+      "excerpt": "Last month, Vanity Fair asked Ta-Nehisi Coates what he made of the Democratic Socialists of America (DSA). He admitted that, while he knew the organisation was powerful, he hadn’t a clue what exactly it was. “If I read another scene from a DSA party in Brooklyn where people ar...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459480.png"
+    },
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "UK nightlife is addicted to rules",
+      "link": "https://www.dazeddigital.com/music/article/71312/1/dear-uk-nightlife-stop-clubs-rules-lost-palais-phones-fabric?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=uk-nightlife-is-addicted-to-rules",
+      "date": "2026-11-17T11:27:00.000Z",
+      "timestamp": 1794914820000,
+      "excerpt": "It’s midnight on a Friday and I’ve finally made it into central London nightclub Fabric. After queuing for nearly an hour, followed by my boxers being meticulously fondled by a security guard I can only imagine was trained by the TSA, I am met with one final barrier: a doorman...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459597.png"
+    },
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
       "title": "What went down at Dior’s festive wonderland at Harrods",
       "link": "https://www.dazeddigital.com/fashion/article/71355/1/what-went-down-at-diors-festive-wonderland-at-harrods?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=what-went-down-at-dior-s-festive-wonderland-at-harrods",
-      "date": "2026-11-16T18:29:53.000Z",
-      "timestamp": 1794853793000,
+      "date": "2026-11-16T18:29:00.000Z",
+      "timestamp": 1794853740000,
       "excerpt": "While some may prescribe the classic comforts of holiday-themed rom-coms and an indulgent cookie or three to keep the winter blues away, there is no better time of year to indulge in a little whimsy-maxxing. This winter, Dior is following suit and making a convincing case for...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459591.jpg"
     },
@@ -61,26 +81,6 @@
       "timestamp": 1794830940000,
       "excerpt": "Predatory behaviour – and allegations of predatory behaviour – seem as much a staple in British entertainment as soap operas and game shows, embedded in the DNA of the same industry that repeatedly faces questions about how such behaviour is enabled. This month, we were remind...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459537.png"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "Saris, sequins and desi disco: Portraits from London’s Disco Diwali",
-      "link": "https://www.dazeddigital.com/life-culture/article/71364/1/saris-sequins-desi-disco-portraits-london-disco-diwali-party?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=saris-sequins-and-desi-disco-portraits-from-london-s-disco-diwali",
-      "date": "2026-11-16T09:44:00.000Z",
-      "timestamp": 1794822240000,
-      "excerpt": "This weekend, at London’s Disco Diwali party, tradition came alive on the dancefloor. Vintage saris shimmered alongside sequins, boys wore bindis, and modern pieces were paired with treasured family heirlooms. The Bollywood Brass Band wound its way through the crowd, before DJ...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459553.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "The standout pictures from Paris Photo 2026",
-      "link": "https://www.dazeddigital.com/art-photography/article/71342/1/paris-photo-art-fair-photography-2026-highlights-guide-grand-palais?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-standout-pictures-from-paris-photo-2026",
-      "date": "2026-11-13T18:11:00.000Z",
-      "timestamp": 1794593460000,
-      "excerpt": "Paris Photo has landed in Paris, taking over the monumental Grand Palais with an impressive array of 246 exhibitors from 38 countries. From established galleries and world-renowned photographers to younger galleries and emerging names to look out for, alongside publishers and...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459300.jpg"
     }
   ]
 }
