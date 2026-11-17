@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-16T18:07:48.385Z",
+  "generatedAt": "2026-11-17T02:49:46.313Z",
   "count": 8,
   "items": [
+    {
+      "source": "dazed",
+      "sourceUrl": "https://www.dazeddigital.com/rss",
+      "title": "What went down at Dior’s festive wonderland at Harrods",
+      "link": "https://www.dazeddigital.com/fashion/article/71355/1/what-went-down-at-diors-festive-wonderland-at-harrods?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=what-went-down-at-dior-s-festive-wonderland-at-harrods",
+      "date": "2026-11-16T18:29:53.000Z",
+      "timestamp": 1794853793000,
+      "excerpt": "While some may prescribe the classic comforts of holiday-themed rom-coms and an indulgent cookie or three to keep the winter blues away, there is no better time of year to indulge in a little whimsy-maxxing. This winter, Dior is following suit and making a convincing case for...",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459591.jpg"
+    },
     {
       "source": "dazed",
       "sourceUrl": "https://www.dazeddigital.com/rss",
@@ -71,16 +81,6 @@
       "timestamp": 1794593460000,
       "excerpt": "Paris Photo has landed in Paris, taking over the monumental Grand Palais with an impressive array of 246 exhibitors from 38 countries. From established galleries and world-renowned photographers to younger galleries and emerging names to look out for, alongside publishers and...",
       "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459300.jpg"
-    },
-    {
-      "source": "dazed",
-      "sourceUrl": "https://www.dazeddigital.com/rss",
-      "title": "Lila Moss shares her wellness rituals for World Diabetes Day",
-      "link": "https://www.dazeddigital.com/beauty/article/71357/1/lila-moss-on-rituals-meditation-and-wellness-world-diabetes-day-calm-omnipod?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=lila-moss-shares-her-wellness-rituals-for-world-diabetes-day",
-      "date": "2026-11-13T15:55:00.000Z",
-      "timestamp": 1794585300000,
-      "excerpt": "“Night has fallen but the darkened skies alight with the magic of the aurora borealis,” Lila Moss narrates softly. It’s part of a soothing sleep story the model has created in collaboration with wellness platform Calm and wearable insulin pump Omnipod. In “Runway Beneath the N...",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459426.jpg"
     }
   ]
 }
